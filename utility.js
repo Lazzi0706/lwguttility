@@ -1,3 +1,12 @@
+/*
+/////////////////////////////////////////////////////
+//
+//
+//                Made by: Lazzi
+//
+//
+/////////////////////////////////////////////////////
+*/
 var arrFAQ = [];
 $("#faqWindowSubDivTextArea > p").each(function(index, obj) {
     arrFAQ.push(obj.innerHTML);
